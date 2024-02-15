@@ -1,0 +1,1 @@
+Django rest framework user authentication using session tokens
